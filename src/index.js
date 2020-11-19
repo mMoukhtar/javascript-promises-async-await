@@ -1,8 +1,5 @@
 const { expect } = require("chai");
 
-function fetchMovies() {
+export function fetchMovies() {
 
 }
-
-
-export { fetchMovies }
